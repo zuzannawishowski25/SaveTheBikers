@@ -2,3 +2,7 @@ osmnx>=2.0
 networkx
 folium
 scikit-learn
+pandas
+geopandas
+matplotlib
+ipykernel
